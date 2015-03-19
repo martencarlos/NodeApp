@@ -1,0 +1,14 @@
+{
+  "name": "NodeApp",
+  "version": "1.0.0",
+  "description": "Testing node + stormpath",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "martencarlos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
